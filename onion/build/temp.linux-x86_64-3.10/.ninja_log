@@ -1,0 +1,5 @@
+# ninja log v7
+0	44362	1755394489273805124	/home/nba/onion/build/temp.linux-x86_64-3.10/conv1d/conv1d.o	f863be3b24e9cd7b
+0	97077	1755394489273805124	/home/nba/onion/build/temp.linux-x86_64-3.10/conv1d/conv1d_cuda.o	91e289d197895e7
+4	45825	1755394587472610665	/home/nba/onion/build/temp.linux-x86_64-3.10/dropout/dropout.o	1e2690673f405322
+5	104815	1755394587472610665	/home/nba/onion/build/temp.linux-x86_64-3.10/dropout/dropout_cuda.o	39a665616cce0b2c
