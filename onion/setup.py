@@ -7,7 +7,6 @@ extra_compile_args = {
     'nvcc': ['-O3', '-std=c++17'],
 }
 
-# Jeżeli CUDA jest dostępna, dodaj makro
 if CUDA_HOME is not None:
     define_macros.append(('WITH_CUDA', None))
 
